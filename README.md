@@ -1,4 +1,4 @@
 #working on CLRS
 
 
-adding my notes to simpilfy thisa book.
+adding my notes to simpilfy this book.
