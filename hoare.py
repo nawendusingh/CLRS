@@ -14,7 +14,7 @@ def partition_hoare(array, start, end):
         if i == j:
             if array[i] <= array[end]:
                 i += 1
-
+## if i equals j we swap i with end other keep swapping i & j
             array[i], array[end] = array[end], array[i]
             return i
         else:
